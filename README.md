@@ -38,7 +38,7 @@ There is a navigation bar above. Before trying any function, please turn to the 
 
 Any combination of checkboxes is acceptable.
 
-<img src="./PicForREADME/filter.png" style="zoom:60%;" />
+![](./PicForREADME/filter.png)
 
 ### 2.2 User's Favorite
 
