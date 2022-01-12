@@ -38,49 +38,49 @@ There is a navigation bar above. Before trying any function, please turn to the 
 
 Any combination of checkboxes is acceptable.
 
-![](./PicForREADME/filter.png)
+<img src="https://github.com/tomatoeater/CS2309-Principles-and-Practice-of-Problem-Solving/raw/main/picForREADME/filter.png" style="zoom:60%;" />
 
 ### 2.2 User's Favorite
 
 Be careful about typing userIDs. But I do input check to inform you when your input goes wrong.
 
-<img src="./PicForREADME/users' fav.png" style="zoom:60%;" />
+<img src="https://github.com/tomatoeater/CS2309-Principles-and-Practice-of-Problem-Solving/raw/main/picForREADME/users' fav.png" style="zoom:60%;" />
 
 ### 2.3 Checking-in Number
 
 Also be careful when typing POIIDs. You should select only one checkbox between POI_ID and GPS Range. You should select only one checkbox between by Month and by Hour. 
 
-<img src="./PicForREADME/chk over time.png" style="zoom:60%;" />
+<img src="https://github.com/tomatoeater/CS2309-Principles-and-Practice-of-Problem-Solving/raw/main/picForREADME/chk over time.png" style="zoom:60%;" />
 
 ### 2.4 DAU
 
 When there is no data available, both lines will be 0.
 
-<img src="./PicForREADME/dau.png" style="zoom:60%;" />
+<img src="https://github.com/tomatoeater/CS2309-Principles-and-Practice-of-Problem-Solving/raw/main/picForREADME/dau.png" style="zoom:60%;" />
 
 ### 2.5 User's Diff
 
 When there is no data available, a warning window will be shown.
 
-<img src="./PicForREADME/user dif.png" style="zoom:60%;" />
+<img src="https://github.com/tomatoeater/CS2309-Principles-and-Practice-of-Problem-Solving/raw/main/picForREADME/user dif.png" style="zoom:60%;" />
 
 ### 2.6 Trajectory
 
 When there is no data available, a warning window will be shown.
 
-<img src="./PicForREADME/trajectory.png" style="zoom:60%;" />
+<img src="https://github.com/tomatoeater/CS2309-Principles-and-Practice-of-Problem-Solving/raw/main/picForREADME/trajectory.png" style="zoom:60%;" />
 
 ### 2.7 Heatmap
 
 You should select only one checkbox between POI_ID and GPS Range.
 
-<img src="./PicForREADME/heatmap.png" style="zoom:60%;" />
+<img src="https://github.com/tomatoeater/CS2309-Principles-and-Practice-of-Problem-Solving/raw/main/picForREADME/heatmap.png" style="zoom:60%;" />
 
 ### 2.8 Prediction
 
 You should select only one checkbox between POIID and UserID.
 
-<img src="./PicForREADME/prediction.png" style="zoom:60%;" />
+<img src="https://github.com/tomatoeater/CS2309-Principles-and-Practice-of-Problem-Solving/raw/main/picForREADME/prediction.png" style="zoom:60%;" />
 
 ## 3. BUT
 
